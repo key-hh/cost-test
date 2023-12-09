@@ -1,0 +1,403 @@
+﻿[LINE] d&m-platform-break-room 그룹의 대화 내용
+저장일시: 2023. 11. 25. 15:35
+
+2023. 5. 8. (월)
+18:04	Park Hee Cheol 박희철	안녕하세요.
+18:05	Park Hee Cheol 박희철	슬랙 채널에서 잠답을 하기가 부담스러워서 라인방 하나 만들어봤어요.ㅋ
+18:05	강수환_SuHwan	오...!
+19:01	Park Hee Cheol 박희철	요즘 회사에 bpu라는 단어를 많이 쓰셔서 그게 뭔지 주변에 물어봤는데 아무도 모르시더라구요. ㅋ
+19:01	Park Hee Cheol 박희철	제가 그래서 찾아서 알아냈습니다. 
+19:01	Park Hee Cheol 박희철	예산 책정 단위(Budget Planning Unit, BPU)
+19:01	Park Hee Cheol 박희철	참고하세요~ ㅋ
+19:12	조현승_Hyunseung	오...
+23:15	Park Hee Cheol 박희철	저 드디어 Github Copilot Chat 사용할 수 있게 되었습니다.
+체험해보고 낼 소감을 말씀드리죠~
+23:15	Park Hee Cheol 박희철	[사진]
+
+2023. 5. 9. (화)
+17:30	Park Hee Cheol 박희철	Github Copilot Chat에 대한 한 줄 소감: ChatGPT가 더 좋은 것 같습니다.
+
+2023. 5. 10. (수)
+09:57	Park Hee Cheol 박희철	https://y요outu.be/VwENbmYq8JM
+이거 재밌네요. ㅎ
+
+2023. 5. 15. (월)
+15:12	Park Hee Cheol 박희철	아직 확정은 아닌데요,
+5-6월 중에 춘천 워크샵을 진행해볼까 생각 중입니다.
+1박 2일 or 2박 3일 생각 중인데요, 날짜와 관계없이 참석이 어려우신 분은 말씀을 저에게 주시면 인원 수를 미리 확정하기 좋을 것 같습니다.
+여기 또는 DM으로 따로 말씀 주셔도 됩니다~
+15:16	조현승_Hyunseung	5월27일 ~ 6월2일 일본 연수입니다
+15:17	Park Hee Cheol 박희철	아하, 그 시기가 되었군요.
+15:17	조현승_Hyunseung	수환님도
+15:17	조현승_Hyunseung	6월7일인가 그럴거에요
+15:17	Park Hee Cheol 박희철	27일은 휴일 아니에요?
+15:17	조현승_Hyunseung	네네
+15:18	조현승_Hyunseung	27일부터 29일은
+15:18	Park Hee Cheol 박희철	그때 일본 출발해요?
+15:18	조현승_Hyunseung	저희가 휴일이라 미리가서
+15:18	Park Hee Cheol 박희철	아하
+15:18	조현승_Hyunseung	놀기로 해서요
+15:18	Park Hee Cheol 박희철	네, 알겠습니다.ㅎㅎㅎ
+15:18	조현승_Hyunseung	네넵
+15:18	김현학_HyunHak Kim	워크샵 주제가 무엇인가요?
+15:18	강수환_SuHwan	저는 6월7~9일 일본 연수입니다
+15:19	Park Hee Cheol 박희철	외부 AI를 활용한 해커톤?을 해볼까 합니다. 아직 고민 중이긴합니다.ㅎㅎㅎ
+15:35	Park Hee Cheol 박희철	워크샵은 필수참석해야 하는 건 아니구요. 일단 못 가시는 분을 확인해보려고 합니다.
+수요조사입니다^^
+15:36	한광희 / Kwanghee Han	월/목요일 아침에 일이 있어서 그때만 아니면 될것 같습니다.(예를 들어 월화수 또는 목금은 가능하나, 수목은 힘들것 같아요.)
+15:36	Park Hee Cheol 박희철	네
+16:23	김현학_HyunHak Kim	저는 당일 아니면 1박2일(상황에 따라 가능)은 가능할듯 합니다. 2박3일이면 참석이 힘들 것 같습니다.
+16:25	한광희 / Kwanghee Han	아.. 2박3일은 저도 힘들것 같아요ㅎ  죄송합니다..
+16:33	Park Hee Cheol 박희철	네네, 2박은 너무 길죠?ㅎㅎㅎ
+16:34	조현승_Hyunseung	네 저도 1박2일이 좋을거 같아요. 다만 저번에 갔을 때 한 일주일만 더 묵고 싶다 이러긴 했지만....
+16:35	조현승_Hyunseung	그래도 한번에 빠르게 다녀오는게 더 맘도 편할거고 ㅋㅋ
+16:36	Park Hee Cheol 박희철	네네^^
+16:40	강수환_SuHwan	오늘 날씨가 꽤 더운데 내일은 더 덥다네요 ㅠㅠ
+다들 더위 조심하세용~
+16:40	Park Hee Cheol 박희철	회사 에어컨 빵빵 합니다!
+16:40	Park Hee Cheol 박희철	ㅎㅎㅎ
+18:14	Park Hee Cheol 박희철	아 그러면 워크샵건은 1박 2일로 추진을 해볼께요.
+일단 주 목적은 리프레쉬고, 너무 놀기 그러니까 간단한 해커톤?을 생각중입니다.ㅋ
+
+2023. 5. 16. (화)
+16:08	Park Hee Cheol 박희철	https://www.upstage.ai/chatgpt-lecture
+이 강의를 들을 수 있도록 조만간 커넥트 공지가 올라온다고 합니다.
+16:08	Park Hee Cheol 박희철	혹시나 필요하신 분 있으면 그 공지 기다렸다가 신청하시면 됩니다.
+16:10	Park Hee Cheol 박희철	그리고 개별 외부 교육 듣는 프로세스가 있으니, 그 외에도 듣고 싶은 강의 있다면 말씀 주세요. 논의해서 들을 수 있게 해드릴께요.ㅎㅎㅎ
+16:13	박수경(Sookyung Park)	인원 충원까지 순조롭게 이뤄지면 좋겠네요
+16:13	Park Hee Cheol 박희철	우수한 분들이 지원을 많이 해주셔야 할텐데.ㅎㅎㅎ
+
+2023. 5. 19. (금)
+17:19	Park Hee Cheol 박희철	https://apps.apple.com/us/app/openai-chatgpt/id6448311069
+아이폰 ChatGPT 공식앱 출시되었는데, 한국어 음성도 매우 인식 잘 되네요.
+미국 계정으로만 설치 가능합니다.ㅎ
+18:49	조현승_Hyunseung	오...
+
+2023. 5. 24. (수)
+12:25	Park Hee Cheol 박희철	이전에 잠깐 말씀드렸던 춘천워크샵은 제가 기획할 시간이 없어서 AIS에 합류한 TPM분께 부탁 드리기로 했습니다.
+6월말쯤으로 추친해볼 예정이니 참고하세요.
+12:26	Park Hee Cheol 박희철	새롭게 합류할 멤버 3분 오시면 같이 할 계획입니다~
+12:26	Park Hee Cheol 박희철	비용은 영수님이나 순호님 카드를 빌려오는 거로 추친을.ㅋㅋㅋ
+
+2023. 6. 27. (화)
+16:17	Park Hee Cheol 박희철	[사진]
+16:17	Park Hee Cheol 박희철	오랜만에 이방 인사드리네요~
+16:17	Park Hee Cheol 박희철	이전에 우리 조직의 응답률이 너무 낮았다고 합니다^^
+16:17	Park Hee Cheol 박희철	시간 되실때 참여부탁 드립니다~
+
+2023. 6. 30. (금)
+19:02	Park Hee Cheol 박희철	[사진]
+19:02	Park Hee Cheol 박희철	미국의 스타트업이 빌게이츠와 NVidia에서 투자 받는데 성공했다네요~
+19:02	Park Hee Cheol 박희철	H100, 22,000대를 구매할 계획이라고~
+19:03	Park Hee Cheol 박희철	NVidia에서 돈을 받아서 다시 NVidia에 다시 쓰는구조...주식 더 급등하려나.ㅎㅎㅎ
+19:03	Park Hee Cheol 박희철	[사진]
+19:04	Park Hee Cheol 박희철	이번 달도 일이 엄청 많았었네요. 고생하셨습니다.
+다음 달에 뵈요~~
+
+2023. 7. 13. (목)
+16:18	Park Hee Cheol 박희철	내일 합병 관련해서 미팅이 있는 모양인데요, 참고적으로 공유 드리면
+16:20	Park Hee Cheol 박희철	일본의 데이터 & ML 조직하고 서로 뭐하고 있는지 공유하는 미팅이 다음 주 부터 계속 잡혀 있어요.
+우리가 하는 일은 충우님이 발표해서 공유하실 것 같구요. 저도 해당 미팅 참석하라고 해서 들어갔다 오긴할 건데...별거 없을 것 같긴합니다.
+16:20	Park Hee Cheol 박희철	일본의 MLOps를 확인하게 되면 공유 드릴께요. 참고하세요.ㅎㅎㅎ
+
+2023. 7. 19. (수)
+12:29	Park Hee Cheol 박희철	이번에 워크샵에서 팀비 좀 있는 거로 저녁때 필요한 음료 구매를 할까 하는데요.ㅎ
+12:30	Park Hee Cheol 박희철	이전에 한 방에 너무 많은 인원은 못 들어가겠죠? DnM + Chatbot의 참석자들을 위해 음료를 준비할까 합니다.ㅎㅎㅎ
+12:31	Park Hee Cheol 박희철	가는 길에 사거나, 저녁 식사 시간 전에 커넥트원 근처에서 사던가 해야 할 것 같습니다.ㅋ
+12:33	조현승_Hyunseung	거기 근처에 하나로마트가 많아서
+12:33	조현승_Hyunseung	들려서 사면 될 것같습니다
+12:34	Park Hee Cheol 박희철	네네, 그 날 가서 이야기 좀 해보죠!
+12:55	Park Hee Cheol 박희철	현승님이 선형님과 같은 차 타고 가신다면서요?
+12:55	조현승_Hyunseung	네넵
+12:55	Park Hee Cheol 박희철	현승님하고 같이 간식하고 음료 사겠다고 하시네요.ㅎㅎㅎ
+12:55	조현승_Hyunseung	네넵
+12:55	조현승_Hyunseung	그때 dm팀꺼도 같이 사면 되는거져?
+13:01	Park Hee Cheol 박희철	네네, 대략 얼마나 예산이 필요할지 감이 안오네요.ㅎ
+13:27	Park Hee Cheol 박희철	우리만 사면 우리팀에 다 올 것 같아서 주홍님에게 이야기해서 모아서 같이 사자고 했는데, 예산이 잇으신지 모르겠네요.ㅎ
+13:27	Park Hee Cheol 박희철	그쪽에 예산이 없으면 우리꺼만 사는거로~
+19:24	박주은_Jueun	내일 배드민턴 라켓을 두 개 챙겨가면 저녁 먹고 같이 쳐주실 분이 계시겠지요..? (그쪽 체육관에 있던 라켓이 아주 좋진 않았던 것 같아서요 ㅎㅎ)
+19:24	조현승_Hyunseung	저 보드게임도 챙겼습니다 ㅎㅎ
+19:25	Park Hee Cheol 박희철	아직 주은님의 실력을 잘 모르는 분들을 타겟으로 모집해보시죠!
+19:25	Park Hee Cheol 박희철	새롭게 DSP 오신 분들을 타겟으로.ㅋ
+19:32	Park Hee Cheol 박희철	보드게임방이 있다던데. 저번에 안가봤네요. 
+19:33	Park Hee Cheol 박희철	우리팀 10만, 주홍님팀 10만원씩 내고 밤에 마실 음료 사기로 했습니다. 
+현승님이 선형님과 오시는길에 구매해서 오시게 될 것 같네요^^
+19:33	조현승_Hyunseung	넵
+19:36	Park Hee Cheol 박희철	제 기억에 방하나가 남는 것 같은데요, 거기 냉장고에 다 넣으면 될 것 같네요.ㅎ
+
+2023. 7. 27. (목)
+18:06	백승재_SeungJae	혹시 슬랙 되시나요?
+18:06	강수환_SuHwan	저도 안되네요
+18:08	Park Hee Cheol 박희철	벌써 라인 슬랙 닫았나요?
+18:08	백승재_SeungJae	https://wiki.workers-hub.com/pages/translate.action?pageId=95655734&from=ja&to=ko
+18:09	Park Hee Cheol 박희철	음... Wow를 보여주시려고 일정을 땡겼나!
+18:11	백승재_SeungJae	이럴때 어디가서 물어봐야하나요 ㅋㅋ help채널도 슬랙인데 ㅋㅋ
+18:11	Park Hee Cheol 박희철	트위터로 가야죠!
+18:12	Park Hee Cheol 박희철	트위터에 slack을 팔로우~
+18:12	Park Hee Cheol 박희철	정수님하고, 지훈님도 찾아서 이방에 모셔와야겠는데요?
+18:12	Park Hee Cheol 박희철	두 분하고 라인친구인분 있나요?
+18:13	Park Hee Cheol 박희철	재택하시는 분들은 슬랙 잘 되나요?
+18:14	Park Hee Cheol 박희철	회사 네트워크 문제라는 이야기가 있네요?
+18:14	백승재_SeungJae	아뇨 안됩니다.
+18:14	안정수 / Jeongsu An	https://downdetector.jp/shougai/slack/
+18:14	임지훈 / Jihun Im	저도 위키는 잘 되는데 슬랙만 안되네요
+18:14	안정수 / Jeongsu An	[사진]
+18:15	안정수 / Jeongsu An	웍스에서도 slack 다운 됐다고 하시는 것 같습니다..!
+18:15	Park Hee Cheol 박희철	웍스는 안정적이군요!!
+18:15	Park Hee Cheol 박희철	야후랑 합치면 웍스도 못 쓰려나...
+18:16	박주은_Jueun	트위터에 최신 순으로 검색해 보니 다들 다운된 것 같네요
+18:16	Park Hee Cheol 박희철	역시 트위터!
+18:16	백승재_SeungJae	슬랙이 뻗은거군요...
+18:17	Park Hee Cheol 박희철	https://status.slack.com
+18:17	Park Hee Cheol 박희철	여기는 거짓말인거네요!
+뭔가 업데이트 되긴했네요.ㅎ
+19:01	Park Hee Cheol 박희철	https://serper.dev
+이쪽 API는 구글 검색 이후에 추천검색어도 뽑아주네요!
+19:01	Park Hee Cheol 박희철	여기가 GCP 쓰는 것보다 좋아보이는군요.ㅎ
+19:02	Park Hee Cheol 박희철	안타깝게도 슬랙이 다시 작동합니다.
+
+2023. 7. 28. (금)
+10:18	박주은_Jueun	안녕하세요 좋은 아침입니다! 혹시 주말에 열리는 컨퍼런스도 회사 지원으로 다녀올 수 있나요? https://2023.pycon.kr/
+10:27	Park Hee Cheol 박희철	우리회사는 이번에 후원에서 빠졌나봐요? 그러고 보니, 티켓이 안나오네요. 
+10:32	Park Hee Cheol 박희철	@박주은_Jueun 
+제가 쓰레드에 멘션 드렸어요. 
+10:33	Park Hee Cheol 박희철	https://line-enterprise.slack.com/archives/C02BLQB3R38/p1690507832286469
+10:34	박주은_Jueun	감사합니다 !!
+10:43	Park Hee Cheol 박희철	다른 참석 희망자분들도 그 쓰레드에 말씀 남기고 신청해주세요. 
+
+2023. 8. 1. (화)
+20:19	Park Hee Cheol 박희철	[사진]
+20:19	Park Hee Cheol 박희철	요즘 초전도체가 핫하던데
+20:20	Park Hee Cheol 박희철	한국이 만든거 이론적으로 초전도체가 맞다네요. ㅎ
+20:20	Park Hee Cheol 박희철	주가 급등하려나요? ㅎㅎㅎ
+20:20	조현승_Hyunseung	와우
+20:20	강수환_SuHwan	헐
+20:22	Park Hee Cheol 박희철	https://n.news.naver.com/article/366/0000921355?sid=105
+20:22	Park Hee Cheol 박희철	뉴스도 떴네요. ㅎ
+20:29	박수경(Sookyung Park)	아직 맞다는 아니고 이론적으로는 가능한데 lk-99가 맞는진 모른다인것 같네요
+20:29	박수경(Sookyung Park)	이제 고연전 안하고 고하전 한다네요
+20:29	Park Hee Cheol 박희철	트위터에 추천에 저 이야기만 뜨네요; 저만 그런가.  ㅎㅎㅎ
+20:35	Park Hee Cheol 박희철	고하전?
+20:37	박수경(Sookyung Park)	하바드랑 한대요
+20:37	Park Hee Cheol 박희철	아아. ㅋㅋㅋ
+20:37	조현승_Hyunseung	ㅋㅋㅋㅋㅋㅋㅋ
+20:38	강수환_SuHwan	ㅋㅋㅋㅋㅋㅋㅋㅋ
+20:38	강수환_SuHwan	초전도체 테마주가
+파워로직스, 신성델타테크, 셀바스헬스케어, 서남, 인벤티지랩, 코난테크놀로지
+이라네요
+20:38	조현승_Hyunseung	이미 30프로 올랐더라고요 ㅋㅋ
+20:38	강수환_SuHwan	출근 전에 잠시 바쁘겠군요 ㅋㅋ
+20:41	Park Hee Cheol 박희철	오 미리 사둔거에요?
+20:48	Park Hee Cheol 박희철	주식하시는 분들은 내일 지각 예정인가요? 
+20:48	강수환_SuHwan	아마 10시전에 결판날거라....
+
+2023. 8. 2. (수)
+00:37	Park Hee Cheol 박희철	결론은 초전도체 아니라는 것 같네요. 투자에 유의하세요.ㅋ
+01:07	조현승_Hyunseung	ㅋㅋㅋㅋㅋㅋㅋㅋ
+
+2023. 8. 3. (목)
+18:21	Park Hee Cheol 박희철	혹시나 출근하신분들 퇴근을 좀 천천히 하세요;
+18:21	Park Hee Cheol 박희철	https://n.news.naver.com/mnews/article/057/0001760448?sid=102
+18:21	Park Hee Cheol 박희철	광희님이 알려줘서 알게되었습니다;
+18:22	조현승_Hyunseung	워우
+18:22	Park Hee Cheol 박희철	지금 사이렌
+18:26	Park Hee Cheol 박희철	아직 범인 제대로 못 잡았나봐요. 오피스 계시면 퇴근하지 말고 대기하심이 좋겠습니다.
+18:27	Park Hee Cheol 박희철	AK 1층 폐쇄인듯합니다.
+18:27	한광희 / Kwanghee Han	그러게요. 사람들 서있는데, 몰려있지 말고 가라네요. 아직 안잡혀서 위험하다고..
+18:28	Park Hee Cheol 박희철	지금 막 잡았다고 뉴스는 나왔다는데
+18:28	조현승_Hyunseung	방금 뉴스에는 검거됐다고 떴대요
+18:28	한광희 / Kwanghee Han	아 잡혔군요. 서로 
+쳐다보는데. 무섭네요. 
+18:29	Park Hee Cheol 박희철	광희님은 현장에 계세요?
+18:29	한광희 / Kwanghee Han	다들 흩어지라고 해서 버스 타는 곳으로 왔어요.
+18:30	한광희 / Kwanghee Han	무리속에 섞여있을수도 있다 생각하니 무섭네요..
+18:31	Park Hee Cheol 박희철	그러게요 ㅠ
+19:00	Park Hee Cheol 박희철	[HR Notice]
+[Update] 서현역 AK플라자 1층 시계탑 앞에서 흉기 난동이 있었으나, 현재 범인은 검거되었습니다. 다만, 안전을 위해 서현역 진입구를 모두 통제중인 관계로 분당선 지하철 이용은 불가한 상황입니다.  
+더불어, AK플라자 2층 시범단지 쪽 육교 입구로 차량이 돌진하여 진입구가 파손된 사고가 발생하여 해당 출입구도 폐쇄되었습니다.  
+분당스퀘어 정문 로비는 현재 출입이 가능한 상태입니다. 분당스퀘어 오피스에 근무중이신 직원들께서는 퇴근시 정문 로비를 통해 귀가해 주시고, 주변이 혼잡하니 안전에 유의해주시길 부탁드립니다. 
+관련문의는 LINE CARE (LINE ID: @LINECARE_KR)로 연락 부탁드립니다.
+19:01	Park Hee Cheol 박희철	지하철은 못타는 상황이겠군요 ㅠ
+19:03	안정수 / Jeongsu An	[동영상]
+19:04	안정수 / Jeongsu An	CCTV영상인듯 하네요,,
+19:04	Park Hee Cheol 박희철	범인이 작정을 한거군요;
+19:16	박수경(Sookyung Park)	한명 더있대여
+19:16	Park Hee Cheol 박희철	2명 이에요?
+19:17	박수경(Sookyung Park)	넹
+19:39	Park Hee Cheol 박희철	https://n.news.naver.com/mnews/article/009/0005168053?sid=102
+19:39	Park Hee Cheol 박희철	아직 안잡힌 것 맞군요 ㅠ
+19:41	Park Hee Cheol 박희철	<(분당) 서현AK프라자 칼부림 신고 관련>
+
+ㅇ 신고 
+- 금일 18:00경, 불상의 남성이 서현역 AK프라자에서 사람들을 찔렀다는 112신고 접수
+
+※ 차량(모닝, 23다 6424)을 이용하여 ak인근에서 행인들을 충격한 후 칼을 사용하여 사람들을 찌르기 시작
+
+ㅇ 내용
+- 피의자 1명 검거
+- 피해자 9명 추정
+(차량 충격 피해자 4ㆍ칼부림 피해자 5)
+
+   * 분당제생,차병원,서울대병원 이송중으로 피해상태 확인중)
+
+ㅇ 조치
+- 분당서장 현장 지휘
+- 관내 순마 긴급배치
+- 긴급현장상황반 출동 등
+23:14	박주은_Jueun	https://naver.me/GwIxzJ20
+23:15	박주은_Jueun	내일도 조심해야 할 것 같네요
+23:15	Park Hee Cheol 박희철	모두들 조심하세요...
+
+2023. 8. 4. (금)
+10:27	Park Hee Cheol 박희철	오늘 여러 살해 협박이 SNS에 많이 올라왔다고 합니다. 될 수 있으면 안전하게 재택 근무하시고, 사람 많이 모인 곳은 조심하세요.
+10:28	Park Hee Cheol 박희철	모방 본능으로 인한 비슷한 범죄가 있을 가능성이 높아서 주의를 하는 것이 좋을 것 같아요.
+11:38	박수경(Sookyung Park)	[사진]
+11:38	박수경(Sookyung Park)	고터래요 조심하세여
+12:15	조현승_Hyunseung	못 발사 총이 있었대요
+12:28	강수환_SuHwan	https://m.hankookilbo.com/News/Read/A2023080411550002749
+총은 사실이 아니라고 하네요
+12:33	조현승_Hyunseung	그렇군요…
+13:36	Park Hee Cheol 박희철	회사에서도 직원 안전에 걱정이 많아서 최대한 재택 근무를 권하고 있습니다.
+13:36	Park Hee Cheol 박희철	진수님도 멤버분들 최대한 집에 있으시라고 말씀 주셨구요.
+13:36	Park Hee Cheol 박희철	혹시나 회사에 업무기기를 받거나 할 때, 저와 협의하면 퀵으로 받을 수 있습니다.
+저도 오늘 충우님과 협의해서 업무기기를 퀵으로 받거든요.
+
+혹시나 그런 일이 있으면 출근하지 않고 받을 수 있으니 참고 부탁 드립니다.
+16:59	Park Hee Cheol 박희철	TC LBT 6094A 플레이트 캐리어 전술 조끼
+https://www.coupang.com/vp/products/5525660101
+====
+이런 제품이 지금 잘 팔린다는군요;;;
+17:00	Park Hee Cheol 박희철	효과가 있으려나요?ㅎㅎㅎ
+18:25	조현승_Hyunseung	ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+
+2023. 8. 10. (목)
+18:40	조현승_Hyunseung	[사진]
+18:40	조현승_Hyunseung	야놀자 태풍때문에 회사명 변경했대요
+18:40	조현승_Hyunseung	이건 아는 야놀자 직원이 올려준 사진
+18:40	조현승_Hyunseung	[사진]
+19:01	Park Hee Cheol 박희철	간판이 날아간건가요?
+20:21	조현승_Hyunseung	네 정확하게는 쓰러진거죠
+
+2023. 8. 13. (일)
+10:57	안정수 / Jeongsu An	혹시 파이콘 오신 분 계신가요?!! 
+10:59	박주은_Jueun	네!
+10:59	안정수 / Jeongsu An	혹시 어디 계신가요?!! 저는 101호에 있습니다! 
+11:00	박주은_Jueun	저는 지금 104호에 들으러 왔습니다
+11:02	안정수 / Jeongsu An	좀이따 괜찮으시면 점심 같이 먹어요..! 
+11:02	박주은_Jueun	넵!
+11:04	안정수 / Jeongsu An	저는 수환님 만나서 같이 듣고 있습니다!! 
+11:09	Park Hee Cheol 박희철	잘 다녀오세요^^
+
+2023. 8. 17. (목)
+15:38	Park Hee Cheol 박희철	[사진]
+15:38	Park Hee Cheol 박희철	[사진]
+15:38	Park Hee Cheol 박희철	[사진]
+15:39	조현승_Hyunseung	아이스크림
+15:39	박주은_Jueun	아이스크림 하겠습니다!
+15:39	임지훈 / Jihun Im	따듯한 아메리카노
+15:39	안정수 / Jeongsu An	레몬에이드 하겠습니다!
+15:39	박수경(Sookyung Park)	생 오렌지 주스
+15:39	이효건 Hyogun Lee	따뜻한 얼그레이 티로 하겠습니다
+15:39	강수환_SuHwan	아이스 초코 하겠습니다
+15:39	백승재_SeungJae	청포도 에이드
+15:39	한광희 / Kwanghee Han	생오렌지주스
+15:40	Park Hee Cheol 박희철	오렌지 주스
+15:41	Park Hee Cheol 박희철	음료 주문 개수는 다음과 같습니다:
+
+아이스크림: 2개
+따듯한 아메리카노: 1개
+레몬에이드: 1개
+생 오렌지 주스: 2개
+따뜻한 얼그레이 티: 1개
+아이스 초코: 1개
+청포도 에이드: 1개
+오렌지 주스: 1개
+15:42	강수환_SuHwan	아이스크림 2
+따뜻한 아메리카노 1
+레몬에이드 1
+생 오랜지주스 3
+따뜻한 얼그레이티 1
+청포도 에이드 1
+
+15:42	강수환_SuHwan	아이스초코
+15:44	Park Hee Cheol 박희철	주문했습니다.
+16:03	박주은_Jueun	https://mcard.fromtoday.co.kr/w/6QtK2p/?d4e
+17:50	조현승_Hyunseung	슬슬 모이실까요?
+17:50	Park Hee Cheol 박희철	저는 미팅이 끝나는대로 따라갈께요.
+17:50	Park Hee Cheol 박희철	먼저 가세요~
+17:52	조현승_Hyunseung	네넵
+18:07	Park Hee Cheol 박희철	저도 이제 출발합니다. 
+18:14	Park Hee Cheol 박희철	[사진]
+18:15	Park Hee Cheol 박희철	용주님이 AHA에 질문을 많이 받아오라는 알바 중이시라네요. ㅋ
+18:15	Park Hee Cheol 박희철	질문 있으시면 적극적으로 부탁 드립니다. ㅎ
+21:23	Park Hee Cheol 박희철	[사진]
+21:23	Park Hee Cheol 박희철	서현역은 경찰들이 순찰다니네요. 
+21:24	Park Hee Cheol 박희철	폭력 사건때문에 강화되었나봐요. 
+21:24	Park Hee Cheol 박희철	제가 본 것만 8명
+21:25	조현승_Hyunseung	아 봤습니다 그것 때문이군요
+21:29	Park Hee Cheol 박희철	아무튼 모두 조심해서 돌아가세요. 사람 많은 곳으로 이동하시구요~
+21:30	조현승_Hyunseung	네넵 걱정해주셔서 감사합니다~
+21:30	강수환_SuHwan	다들 즐거웠습니다
+내일 뵈요~
+21:31	안정수 / Jeongsu An	오늘 재미있게 잘 놀았습니다! 감사합니다~
+21:32	안정수 / Jeongsu An	[스티커]
+21:36	박주은_Jueun	재미있었습니다! 내일 뵙겠습니다~
+21:42	Park Hee Cheol 박희철	담에도 맛있는거 먹으러 갑시다. 내일 뵈요~
+
+2023. 9. 5. (화)
+22:54	Park Hee Cheol 박희철	@강수환_SuHwan 님, 
+과천쪽에 큰불 나서 양재쪽에 화재 냄새 심하다고 들었는데, 괜찮아요?
+22:54	강수환_SuHwan	아하 밖에 탄내가 나는데
+22:54	강수환_SuHwan	그것때문이였군요
+22:54	강수환_SuHwan	환기하다가 급하게 문을 닫았어요
+22:55	Park Hee Cheol 박희철	https://m.cafe.naver.com/ca-fe/web/cafes/mygc/articles/405155?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im15Z2MiLCJhcnRpY2xlSWQiOjQwNTE1NSwiaXNzdWVkQXQiOjE2OTM5MjEyMzk4MDR9.iOJkmj9lLztpSYTfec4TBSFUIFFIc52SFYN7Wzk-VPE&useCafeId=false&tc=naver_search&query=원주암%2B화재
+22:55	Park Hee Cheol 박희철	멀리까지 퍼지나봐요. 창문 잘 닫고 주무세요;
+22:56	강수환_SuHwan	헉 그렇군요 ㅠㅠ 감사합니다
+22:57	Park Hee Cheol 박희철	지금 산불이 크게 여기저기 낫다는 소문이...
+22:57	Park Hee Cheol 박희철	[사진]
+22:58	Park Hee Cheol 박희철	번개때문에 여기저기 불난게 아닌가 추측한다네요...
+22:58	강수환_SuHwan	다 저희집 근처네요;;
+22:58	Park Hee Cheol 박희철	뉴스 잘 보고 계세요...
+22:59	강수환_SuHwan	넵
+22:59	조현승_Hyunseung	워우
+22:59	조현승_Hyunseung	창문 닫고 공청 틀고 계시죠
+
+2023. 9. 10. (일)
+11:34	Park Hee Cheol 박희철	https://mcard.fromtoday.co.kr/w/6QtK2p/?d4e
+청첩장을 어디다 두었나, 한참 찾다가 모바일 청첩장 찾았네요. 
+혹시나 저와 같은 상황인 분 있을까봐 공유 드립니다. ㅎㅎㅎ
+19:31	안정수 / Jeongsu An	[사진]
+19:32	안정수 / Jeongsu An	[사진]
+19:32	안정수 / Jeongsu An	[사진]
+19:32	안정수 / Jeongsu An	[동영상]
+19:32	안정수 / Jeongsu An	[동영상]
+19:32	안정수 / Jeongsu An	[사진]
+19:32	안정수 / Jeongsu An	[사진]
+19:33	안정수 / Jeongsu An	[동영상]
+19:33	Park Hee Cheol 박희철	오 로얄석에 계셨군요. ㅎ
+19:34	안정수 / Jeongsu An	[동영상]
+19:34	안정수 / Jeongsu An	[동영상]
+19:34	안정수 / Jeongsu An	[동영상]
+19:34	안정수 / Jeongsu An	[사진]
+19:34	안정수 / Jeongsu An	[사진]
+19:36	안정수 / Jeongsu An	동영상과 사진 찍은 것 보내드립니다. 결혼 축하드립니다! 🥳
+
+2023. 9. 15. (금)
+22:13	Park Hee Cheol 박희철	[파일]
+22:13	Park Hee Cheol 박희철	다음 주 월요일 있을 행사 준비 완료입니다^^
+허깅페이스 측 발표 자료 미리 공유 드립니다. 
+22:13	Park Hee Cheol 박희철	즐거운 주말 보내세요~
+
+2023. 9. 20. (수)
+12:36	Park Hee Cheol 박희철	음, 라인 체커를 내보낼수없나;
+12:36	Park Hee Cheol 박희철	안나가는군요. 방을 새로 만들어야 겠네요.
+
+2023. 10. 13. (금)
+22:25	박주은_Jueun	https://twitter.com/fabianstelzer/status/1712790589853352436?t=aWGkdv7WhSCvjeHZDyfBpA&s=19
+22:25	박주은_Jueun	이 스레드가 흥미로워서 공유드려요
+22:25	박주은_Jueun	[사진]
+22:30	Park Hee Cheol 박희철	오호. ㅎㅎㅎ
+
+2023. 10. 17. (화)
+14:31	조현승_Hyunseung	제가 코보폰을 안갖고 와서 여기에 적습니다 ㅠ 
+제가 점심에 잠깐 일이 있어서 나왔는데 생각보다 늦어져서 3시반까지 off하겠습니다
